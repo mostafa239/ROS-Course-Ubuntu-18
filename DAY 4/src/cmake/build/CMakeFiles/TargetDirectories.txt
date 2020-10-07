@@ -1,0 +1,3 @@
+/home/mostafa/ros/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/mostafa/ros/cmake/build/CMakeFiles/cmake.dir
+/home/mostafa/ros/cmake/build/CMakeFiles/edit_cache.dir
