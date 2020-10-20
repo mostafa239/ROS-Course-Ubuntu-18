@@ -1,0 +1,8 @@
+prefix=/home/mostafa/catkin_ws/devel
+
+Name: robotics
+Description: Description of robotics
+Version: 0.0.0
+Cflags: -I/home/mostafa/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs
